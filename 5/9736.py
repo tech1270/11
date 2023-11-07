@@ -8,4 +8,4 @@ for N in range(1000):
     R = int(binary, 2)
     if R < 170:
         result.append(R)
-print(max(result))
+print(max(result)
